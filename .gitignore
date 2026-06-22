@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Data folder
+data/
+ua_detrac_yolo/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# models
+yolo11n_openvino_model/
+runs/
