@@ -1,0 +1,13 @@
+track_id,class_name,violation_type,first_frame,last_frame,violation_frames,lanes_used,direction
+2,car,wrong_direction,1,526,312,"lane_1,lane_2",down
+92,car,wrong_direction,91,188,19,unknown,up
+671,motorcycle,wrong_direction,296,316,21,lane_2,down
+928,motorcycle,wrong_direction,330,343,13,lane_2,down
+1389,motorcycle,wrong_direction,546,615,59,lane_2,down
+1403,motorcycle,wrong_direction,609,640,32,lane_2,down
+1459,motorcycle,wrong_direction,570,596,17,lane_2,down
+1573,motorcycle,wrong_lane,587,600,14,lane_2,up
+1716,car,wrong_lane,620,632,13,lane_1,static_or_unclear
+1764,motorcycle,wrong_lane,653,672,11,lane_2,up
+1923,motorcycle,wrong_direction,672,688,17,lane_2,down
+2128,car,wrong_lane,722,736,15,lane_1,up
